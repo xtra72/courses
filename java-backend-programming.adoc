@@ -1,0 +1,78 @@
+= Java Backend Programming
+
+== Q. 백엔드 개발자에게 필요한 기술은?
+
+* ChatGPT
+* Gemini
+
+== Academy에서는 다음을 하려고  합니다.
+
+**목표**
+
+. 필수 기술
+* 프로그래밍 언어 및 프레임워크
+** Java, JavaScript(최소한)
+** Spring(Core, MVC, JPA, Security, Boot)
+* 데이터베이스
+** 데이터베이스 이론/구조/설계/활용
+** MySQL
+* API
+** REST API 설계/구현
+* 네트워킹
+** 서버 간 통신, 클라이언트와의 통신등에 대한 개념과 실습
+** Protocol - TCP/IP, HTTP
+** 로드밸런싱
+* 서버
+** Public Cloud
+** Container
+** Linux/설정/배포/모니터링
+. 개발 지원
+* 개발 환경
+** IDE, Jenkins
+* 검증
+** Code Style, Sonar Lint, Sonar Qube
+* 테스팅
+** JUnit
+* 디버깅
+. 역량 강화
+* 과제
+** 자기 학습 능력 강화
+* 팀 프로젝트
+** 소통 능력 강화
+** 문제 해결 능력 강화
+
+**배우는 것들**
+
+== Common Technology
+
+ifdef::env-github[]
+
+* link:./../testing/testing.md[Testing]
+* link:https://github.com/xtra72/logging[Logging]
+* link:./../command-line-arguments/doc/command-line-arguments.adoc[Command Line Arguments]
+* link:./../json/doc/json_in_java.adoc[JSON in Java]
+
+endif::[]
+
+ifndef::env-github[]
+
+* link:./../testing/testing.md[Testing]
+* link:./../logging/logging.md[Logging]
+* link:./../command-line-arguments/doc/command-line-arguments.adoc[Command Line Arguments]
+* link:./../json/doc/json_in_java.adoc[JSON in Java]
+
+endif::[]
+
+== Basic of Computer Science
+
+* link:./../data-structures-and-algorithms/00.data_structures_and_algorithms.adoc[Data Structures and Algorithms]
+
+== Java Programming
+
+* link:./../java-thread-programming/doc/00.index.adoc[Java Thread Programming]
+* link:./../java-network-programming/doc/00.index.adoc[Java Network Programming]
+
+== Java Application Programming
+
+* link:./../cannongame/00.index.adoc[Cannon Game]
+
