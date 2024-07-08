@@ -47,17 +47,17 @@
 
 ifdef::env-github[]
 
-* link:./../testing/testing.md[Testing]
-* link:https://github.com/xtra72/logging[Logging]
-* link:./../command-line-arguments/doc/command-line-arguments.adoc[Command Line Arguments]
-* link:./../json/doc/json_in_java.adoc[JSON in Java]
+* link:https://github.com/xtra72/testing-in-java[Testing in Java]
+* link:https://github.com/xtra72/logging-in-java[Logging in Java]
+* link:https://github.com/xtra72/command-line-arguments[Command Line Arguments]
+* link:https://github.com/xtra72/json_in_java[JSON in Java]
 
 endif::[]
 
 ifndef::env-github[]
 
-* link:./../testing/testing.md[Testing]
-* link:./../logging/logging.md[Logging]
+* link:./../testing-in-java/README.md[Testing]
+* link:./../logging-in-java/README.md[Logging]
 * link:./../command-line-arguments/doc/command-line-arguments.adoc[Command Line Arguments]
 * link:./../json/doc/json_in_java.adoc[JSON in Java]
 

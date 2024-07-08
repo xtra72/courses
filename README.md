@@ -1,4 +1,4 @@
-# courses
+# Courses
 
 * [Java Backend Programming](./java-backend-programming.adoc)
 * [Java Classic](./java-classic.adoc)
